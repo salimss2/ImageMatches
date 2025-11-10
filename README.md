@@ -1,2 +1,29 @@
-# ImageMatches
-A simple and fun memory game! 🎮 The user clicks on images to find matching pairs. When two images match, a message appears saying “Congratulations! You found a match 🎉”, and if not, “Try again 😅”. This project trains memory and focuses on practicing interactive programming and event handling.
+# Memory Matching Game 🧠🎮
+
+A simple and fun memory game built for practicing interactive programming and event handling in user interfaces.
+
+## Description
+This game challenges the user's memory. Click on images to find matching pairs.  
+- If two images match: **"Congratulations! You found a match 🎉"**  
+- If they don’t match: **"Try again 😅"**  
+
+The goal is to improve memory and concentration while having fun!
+
+## Features
+- Simple and intuitive interface  
+- Immediate feedback on matches  
+- Easy to expand with more images or levels  
+
+## How to Play
+1. Open the game in your browser or run the project.  
+2. Click on any image to reveal it.  
+3. Find the matching image to score a match.  
+4. Keep matching until all pairs are found.  
+
+## Technologies
+- HTML  
+- CSS  
+- JavaScript  
+
+## License
+This project is open-source and free to use.
